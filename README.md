@@ -1,4 +1,4 @@
-![logo](https://github.com/Vikas8218/Vikas8218/blob/main/Github%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Sohit</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
